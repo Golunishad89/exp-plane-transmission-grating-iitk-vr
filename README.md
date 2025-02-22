@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Golu Nishad | Student | Information Technology | Rajkiya Engineering College Banda | golun6092@gmail.com
 2 | . | . | . | . | .
